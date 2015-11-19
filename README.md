@@ -6,6 +6,7 @@ The simulation can evaluate the execution performance when partitioning part of 
 The simulation can evaluate the traffic load to the performance.
 
 argument: sim mem_init.txt 20
+
 sim: project name.
 mem_init.txt: memory initialization file
 20: traffic generation period
